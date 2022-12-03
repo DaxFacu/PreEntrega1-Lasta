@@ -140,7 +140,7 @@ alert("Costo material: " + costoMaterialBaseReturn);
 
 
 //Electricidad
-alert("Costo Electricidad - pieza: " + costoElectricidadPiezaReturn);
+alert("Costo Electricidad - pieza/s: " + costoElectricidadPiezaReturn);
 
 //Coste OperarioPre
 alert("Costo pre-producción: " + costoPreReturn);
